@@ -11,10 +11,12 @@ The speeds of those two model are statistically the same:
 ![fcn-speed](https://github.com/fyang235/Comparison-between-FC-and-FCN-for-classification-task/blob/master/results/fcn-training.png)  
 
 ### And their accuracies are comparatable.  
-**The perfomance of FC classifier:  **
+**The perfomance of FC classifier:**  
 ![fc-acc](https://github.com/fyang235/Comparison-between-FC-and-FCN-for-classification-task/blob/master/results/fc-image.png)  
 
-**The performance of FCN classifier:  **
-![fcn-acc](https://github.com/fyang235/Comparison-between-FC-and-FCN-for-classification-task/blob/master/results/fcn-image.png)  
+
+**The performance of FCN classifier:**  
+![fcn-acc](https://github.com/fyang235/Comparison-between-FC-and-FCN-for-classification-task/blob/master/results/fcn-image.png)   
+
 
 So FCN classifiers are competent and why people keep using FC classifiers?
